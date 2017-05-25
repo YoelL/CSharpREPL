@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{29ECF458-6895-4EFB-8B9B-E24734F03577}|Default">
+  <MonoDevelop.Ide.ItemProperties.REPLEx1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="REPLEx1/SendCommand.cs">
+    <Files>
+      <File FileName="REPLEx1/EmailClient.cs" Line="1" Column="1" />
+      <File FileName="REPLEx1/ICommand.cs" Line="1" Column="1" />
+      <File FileName="REPLEx1/ParsedInput.cs" Line="1" Column="1" />
+      <File FileName="REPLEx1/InputOutput.cs" Line="1" Column="1" />
+      <File FileName="REPLEx1/Program.cs" Line="11" Column="17" />
+      <File FileName="REPLEx1/Repl.cs" Line="32" Column="15" />
+      <File FileName="REPLEx1/BodyCommand.cs" Line="1" Column="1" />
+      <File FileName="REPLEx1/SendCommand.cs" Line="32" Column="77" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
